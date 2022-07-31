@@ -15,6 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
       "applicationUrl": "http://localhost:5112",
+      "launchUrl": "graphql",
       "dotnetRunMessages": true
     },
     "IIS Express": {
